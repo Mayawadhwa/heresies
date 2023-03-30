@@ -131,10 +131,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/lucywads/heresies/main/issue03/texts/carr.xml?person_annotation_20230210091657314",
+	"id": "https://raw.githubusercontent.com/Mayawadhwa/heresies/main/issue03/texts/carr.xml?person_annotation_20230210091657314",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-02-10T14:16:57.314Z",
-	"dcterms:modified": "2023-02-10T14:16:57.314Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/lucywads",
 		"@type": [
@@ -145,10 +144,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/lucywads/heresies/main/issue03/texts/carr.xml?person_annotation_20230210091657314#Target",
+		"@id": "https://raw.githubusercontent.com/Mayawadhwa/heresies/main/issue03/texts/carr.xml?person_annotation_20230210091657314#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/lucywads/heresies/main/issue03/texts/carr.xml",
+			"@id": "https://raw.githubusercontent.com/Mayawadhwa/heresies/main/issue03/texts/carr.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -156,10 +155,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.3.1"
+			"schema:softwareVersion": "2.7.3"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/lucywads/heresies/main/issue03/texts/carr.xml?person_annotation_20230210091657314#Selector",
+			"@id": "https://raw.githubusercontent.com/Mayawadhwa/heresies/main/issue03/texts/carr.xml?person_annotation_20230210091657314#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/byline/persName"
 		}
@@ -174,7 +173,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.3.1"
+		"schema:softwareVersion": "2.7.3"
 	}
 }]]>
         </rdf:Description>
@@ -210,10 +209,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/lucywads/heresies/main/issue03/texts/carr.xml?person_annotation_20230210091710100",
+	"id": "https://raw.githubusercontent.com/Mayawadhwa/heresies/main/issue03/texts/carr.xml?person_annotation_20230210091710100",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-02-10T14:17:10.100Z",
-	"dcterms:modified": "2023-02-10T14:17:10.100Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/lucywads",
 		"@type": [
@@ -224,10 +222,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/lucywads/heresies/main/issue03/texts/carr.xml?person_annotation_20230210091710100#Target",
+		"@id": "https://raw.githubusercontent.com/Mayawadhwa/heresies/main/issue03/texts/carr.xml?person_annotation_20230210091710100#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/lucywads/heresies/main/issue03/texts/carr.xml",
+			"@id": "https://raw.githubusercontent.com/Mayawadhwa/heresies/main/issue03/texts/carr.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -235,10 +233,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.3.1"
+			"schema:softwareVersion": "2.7.3"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/lucywads/heresies/main/issue03/texts/carr.xml?person_annotation_20230210091710100#Selector",
+			"@id": "https://raw.githubusercontent.com/Mayawadhwa/heresies/main/issue03/texts/carr.xml?person_annotation_20230210091710100#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/back/p/persName"
 		}
@@ -253,7 +251,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.3.1"
+		"schema:softwareVersion": "2.7.3"
 	}
 }]]>
         </rdf:Description>
@@ -289,10 +287,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/lucywads/heresies/main/issue03/texts/carr.xml?note_annotation_20230210095820370",
+	"id": "https://raw.githubusercontent.com/Mayawadhwa/heresies/main/issue03/texts/carr.xml?note_annotation_20230210095820370",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-02-10T14:58:20.370Z",
-	"dcterms:modified": "2023-02-10T14:58:20.370Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/lucywads",
 		"@type": [
@@ -303,10 +300,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/lucywads/heresies/main/issue03/texts/carr.xml?note_annotation_20230210095820370#Target",
+		"@id": "https://raw.githubusercontent.com/Mayawadhwa/heresies/main/issue03/texts/carr.xml?note_annotation_20230210095820370#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/lucywads/heresies/main/issue03/texts/carr.xml",
+			"@id": "https://raw.githubusercontent.com/Mayawadhwa/heresies/main/issue03/texts/carr.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -314,10 +311,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.3.1"
+			"schema:softwareVersion": "2.7.3"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/lucywads/heresies/main/issue03/texts/carr.xml?note_annotation_20230210095820370#Selector",
+			"@id": "https://raw.githubusercontent.com/Mayawadhwa/heresies/main/issue03/texts/carr.xml?note_annotation_20230210095820370#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/back/p/title/note"
 		}
@@ -332,7 +329,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.3.1"
+		"schema:softwareVersion": "2.7.3"
 	}
 }]]>
         </rdf:Description>
@@ -368,10 +365,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/lucywads/heresies/main/issue03/texts/carr.xml?title_annotation_20230210100116141",
+	"id": "https://raw.githubusercontent.com/Mayawadhwa/heresies/main/issue03/texts/carr.xml?title_annotation_20230210100116141",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-02-10T15:01:16.141Z",
-	"dcterms:modified": "2023-02-10T15:01:16.141Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/lucywads",
 		"@type": [
@@ -382,10 +378,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/lucywads/heresies/main/issue03/texts/carr.xml?title_annotation_20230210100116141#Target",
+		"@id": "https://raw.githubusercontent.com/Mayawadhwa/heresies/main/issue03/texts/carr.xml?title_annotation_20230210100116141#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/lucywads/heresies/main/issue03/texts/carr.xml",
+			"@id": "https://raw.githubusercontent.com/Mayawadhwa/heresies/main/issue03/texts/carr.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -393,10 +389,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.3.1"
+			"schema:softwareVersion": "2.7.3"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/lucywads/heresies/main/issue03/texts/carr.xml?title_annotation_20230210100116141#Selector",
+			"@id": "https://raw.githubusercontent.com/Mayawadhwa/heresies/main/issue03/texts/carr.xml?title_annotation_20230210100116141#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/back/p/orgName/orgName/title"
 		}
@@ -411,7 +407,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.3.1"
+		"schema:softwareVersion": "2.7.3"
 	}
 }]]>
         </rdf:Description>
@@ -421,7 +417,7 @@
          <pb n="64"/>
          <p> From that moment on, she disowned the child.</p>
          <p>I was the child.</p>
-         <p>Educated in suitcases, lonely without maps, 1 pressed an ear to my diary in the nights,
+         <p>Educated in suitcases, lonely without maps, I pressed an ear to my diary in the nights,
             listened for the vague red stirrings of its heart.</p>
          <p>I could feel without looking how one town became the next, slight shift up or down on
             the scale of chagrin. So this was civilization: running water and laws. </p>
